@@ -1,4 +1,4 @@
-github.com/kalbasit/dep-a v0.0.0-20190314170409-3c00cea8655a h1:fFzLuPpSGbHL1n5OOc/7ebaR1vmhO/N3w/S4CmB6QJk=
-github.com/kalbasit/dep-a v0.0.0-20190314170409-3c00cea8655a/go.mod h1:VObPBUTbCEyREw0+mo5b9+g6Pg9mOq5Al4CfIkICOTk=
-github.com/kalbasit/dep-b v0.0.0-20190314170451-8de9e3499fdf h1:z0hhSYIlIfsx2/QOK+JyCLtK0DpO78iycYFFOCGSu0w=
-github.com/kalbasit/dep-b v0.0.0-20190314170451-8de9e3499fdf/go.mod h1:dTL956oQA4utU9quTGutsV5WUSpt+Bz9ZWoj62MYc4Q=
+github.com/kalbasit/dep-a/v2 v2.0.0-20190314180722-54a587f9be50 h1:/NH+yFERSotihBvTgHHhaQBPfh0Y5uENKXVyWQoKC84=
+github.com/kalbasit/dep-a/v2 v2.0.0-20190314180722-54a587f9be50/go.mod h1:s7I7Ua7qw3O/N8wZMJwMZWsr+IVCjUPd/7YyoB4vni4=
+github.com/kalbasit/dep-b/v2 v2.0.0-20190314181000-6658a55ce9a1 h1:yYRn2fuusVHahm0+KjtvBuo9B2ySiRvQx2GxspwwDK4=
+github.com/kalbasit/dep-b/v2 v2.0.0-20190314181000-6658a55ce9a1/go.mod h1:iJ3AiqrGi/OSBQ2zrVijWFVRo9uTX6IIpOEzG84IOjQ=
