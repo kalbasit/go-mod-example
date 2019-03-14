@@ -1,0 +1,4 @@
+github.com/kalbasit/dep-a v0.0.0-20190314170409-3c00cea8655a h1:fFzLuPpSGbHL1n5OOc/7ebaR1vmhO/N3w/S4CmB6QJk=
+github.com/kalbasit/dep-a v0.0.0-20190314170409-3c00cea8655a/go.mod h1:VObPBUTbCEyREw0+mo5b9+g6Pg9mOq5Al4CfIkICOTk=
+github.com/kalbasit/dep-b v0.0.0-20190314170451-8de9e3499fdf h1:z0hhSYIlIfsx2/QOK+JyCLtK0DpO78iycYFFOCGSu0w=
+github.com/kalbasit/dep-b v0.0.0-20190314170451-8de9e3499fdf/go.mod h1:dTL956oQA4utU9quTGutsV5WUSpt+Bz9ZWoj62MYc4Q=
